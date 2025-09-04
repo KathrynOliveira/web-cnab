@@ -1,6 +1,6 @@
-# Teste CNAB
+#CNAB
 
-Este teste é uma demonstração em JSON da leitura de um arquivo CNAB.
+Demonstração em JSON da leitura de um arquivo CNAB.
 
 ![teste-cnab](public/img/cnab-json.PNG)
 ![teste-cnab-2](public/img/cnab-json_2.PNG)
