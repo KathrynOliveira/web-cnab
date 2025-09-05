@@ -21,8 +21,8 @@ Siga as etapas abaixo para configurar e executar o projeto:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/KathrynOliveira/CNAB.git
-    cd nome-do-diretório
+    git clone https://github.com/KathrynOliveira/web-cnab.git
+    cd web-cnab
     ```
 
 2.  **Crie o arquivo .env:**
